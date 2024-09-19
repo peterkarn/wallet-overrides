@@ -1,0 +1,386 @@
+{
+    "result": {
+        "deposit": [],
+        "withdraw": [],
+        "crypto_category": [],
+        "crypto": [
+            {
+                "payment_id": 107398,
+                "name": "deposit_crypto",
+                "alias": "deposit_crypto-2",
+                "images": {
+                    "default": "https://altacdn.com/bf/img/paysystems/",
+                    "active": "https://altacdn.com/bf/img/paysystems/"
+                },
+                "disable_input": 0,
+                "dep_allow": "[]",
+                "categories": "[\"crypto\"]",
+                "frame": false,
+                "whitelist": 0,
+                "idx": 6,
+                "rules": {
+                    "deposit": {
+                        "currency": "EUR",
+                        "min": 20,
+                        "max": 1000000,
+                        "default": 50,
+                        "range": [
+                            100,
+                            200,
+                            300,
+                            500
+                        ],
+                        "term": null,
+                        "vendor": "nowpayments"
+                    }
+                },
+                "forms": {
+                    "deposit": [],
+                    "withdraw": []
+                },
+                "crypto_info": [
+                    {
+                        "crypto_currency": "Bitcoin",
+                        "icon": "https://altacdn.com/crypto/bitcoin.svg",
+                        "networks": [
+                            {
+                                "name": "Bitcoin",
+                                "code": "BTC",
+                                "icon": "https://altacdn.com/crypto/btc.svg"
+                            }
+                        ],
+                        "priority": 0
+                    },
+                    {
+                        "crypto_currency": "Ethereum",
+                        "icon": "https://altacdn.com/crypto/ethereum.svg",
+                        "networks": [
+                            {
+                                "name": "Ethereum",
+                                "code": "ETH",
+                                "icon": "https://altacdn.com/crypto/eth.svg"
+                            }
+                        ],
+                        "priority": 1
+                    },
+                    {
+                        "crypto_currency": "Litecoin",
+                        "icon": "https://altacdn.com/crypto/litecoin.svg",
+                        "networks": [
+                            {
+                                "name": "Litecoin",
+                                "code": "LTC",
+                                "icon": "https://altacdn.com/crypto/ltc.svg"
+                            }
+                        ],
+                        "priority": 2
+                    },
+                    {
+                        "crypto_currency": "Dogecoin",
+                        "icon": "https://altacdn.com/crypto/dogecoin.svg",
+                        "networks": [
+                            {
+                                "name": "DOGE",
+                                "code": "DOGE",
+                                "icon": "https://altacdn.com/crypto/doge.svg"
+                            }
+                        ],
+                        "priority": 10
+                    },
+                    {
+                        "crypto_currency": "Elrond-erd-2",
+                        "icon": "https://altacdn.com/crypto/elrond-erd-2.svg",
+                        "networks": [
+                            {
+                                "name": "EGLD",
+                                "code": "EGLD",
+                                "icon": "https://altacdn.com/crypto/egld.svg"
+                            }
+                        ],
+                        "priority": 10
+                    },
+                    {
+                        "crypto_currency": "Chainlink",
+                        "icon": "https://altacdn.com/crypto/chainlink.svg",
+                        "networks": [
+                            {
+                                "name": "Chainlink",
+                                "code": "LINK",
+                                "icon": "https://altacdn.com/crypto/link.svg"
+                            }
+                        ],
+                        "priority": 10
+                    },
+                    {
+                        "crypto_currency": "Tether",
+                        "icon": "https://altacdn.com/crypto/tether.svg",
+                        "networks": [
+                            {
+                                "name": "USDT",
+                                "code": "USDT",
+                                "icon": "https://altacdn.com/crypto/usdt.svg"
+                            },
+                            {
+                                "name": "USDT-BSC",
+                                "code": "USDTBSC",
+                                "icon": "https://altacdn.com/crypto/usdtbsc.svg"
+                            },
+                            {
+                                "name": "USDT-ERC20",
+                                "code": "USDTERC20",
+                                "icon": "https://altacdn.com/crypto/usdterc20.svg"
+                            },
+                            {
+                                "name": "USDT-SOL",
+                                "code": "USDTSOL",
+                                "icon": "https://altacdn.com/crypto/usdtsol.svg"
+                            },
+                            {
+                                "name": "USDT-TRC20",
+                                "code": "USDTTRC20",
+                                "icon": "https://altacdn.com/crypto/usdttrc20.svg"
+                            }
+                        ],
+                        "priority": 10
+                    },
+                    {
+                        "crypto_currency": "Tezos",
+                        "icon": "https://altacdn.com/crypto/tezos.svg",
+                        "networks": [
+                            {
+                                "name": "Tezos",
+                                "code": "XTZ",
+                                "icon": "https://altacdn.com/crypto/xtz.svg"
+                            }
+                        ],
+                        "priority": 10
+                    },
+                    {
+                        "crypto_currency": "Concierge-io",
+                        "icon": "https://altacdn.com/crypto/concierge-io.svg",
+                        "networks": [
+                            {
+                                "name": "Travala.com (AVA)",
+                                "code": "AVA",
+                                "icon": "https://altacdn.com/crypto/ava.svg"
+                            },
+                            {
+                                "name": "Travala.com (AVABSC)",
+                                "code": "AVABSC",
+                                "icon": "https://altacdn.com/crypto/avabsc.svg"
+                            },
+                            {
+                                "name": "Travala.com (AVAERC20)",
+                                "code": "AVAERC20",
+                                "icon": "https://altacdn.com/crypto/avaerc20.svg"
+                            }
+                        ],
+                        "priority": 15
+                    },
+                    {
+                        "crypto_currency": "Polkadot",
+                        "icon": "https://altacdn.com/crypto/polkadot.svg",
+                        "networks": [
+                            {
+                                "name": "POLKADOT",
+                                "code": "DOT",
+                                "icon": "https://altacdn.com/crypto/dot.svg"
+                            }
+                        ],
+                        "priority": 15
+                    },
+                    {
+                        "crypto_currency": "Binancecoin",
+                        "icon": "https://altacdn.com/crypto/binancecoin.svg",
+                        "networks": [
+                            {
+                                "name": "BNBBSC",
+                                "code": "BNBBSC",
+                                "icon": "https://altacdn.com/crypto/bnbbsc.svg"
+                            },
+                            {
+                                "name": "BNBMAINNET",
+                                "code": "BNBMAINNET",
+                                "icon": "https://altacdn.com/crypto/bnbmainnet.svg"
+                            }
+                        ],
+                        "priority": 16
+                    },
+                    {
+                        "crypto_currency": "Cardano",
+                        "icon": "https://altacdn.com/crypto/cardano.svg",
+                        "networks": [
+                            {
+                                "name": "Cardano",
+                                "code": "ADA",
+                                "icon": "https://altacdn.com/crypto/ada.svg"
+                            }
+                        ],
+                        "priority": 21
+                    },
+                    {
+                        "crypto_currency": "Ripple",
+                        "icon": "https://altacdn.com/crypto/ripple.svg",
+                        "networks": [
+                            {
+                                "name": "Ripple",
+                                "code": "XRP",
+                                "icon": "https://altacdn.com/crypto/xrp.svg"
+                            }
+                        ],
+                        "priority": 21
+                    },
+                    {
+                        "crypto_currency": "Binance-usd",
+                        "icon": "https://altacdn.com/crypto/binance-usd.svg",
+                        "networks": [
+                            {
+                                "name": "BUSD",
+                                "code": "BUSD",
+                                "icon": "https://altacdn.com/crypto/busd.svg"
+                            }
+                        ],
+                        "priority": 40
+                    },
+                    {
+                        "crypto_currency": "Solana",
+                        "icon": "https://altacdn.com/crypto/solana.svg",
+                        "networks": [
+                            {
+                                "name": "SOL",
+                                "code": "SOL",
+                                "icon": "https://altacdn.com/crypto/sol.svg"
+                            }
+                        ],
+                        "priority": 40
+                    },
+                    {
+                        "crypto_currency": "Usd-coin",
+                        "icon": "https://altacdn.com/crypto/usd-coin.svg",
+                        "networks": [
+                            {
+                                "name": "USDC",
+                                "code": "USDC",
+                                "icon": "https://altacdn.com/crypto/usdc.svg"
+                            }
+                        ],
+                        "priority": 41
+                    },
+                    {
+                        "crypto_currency": "Avalanche-2",
+                        "icon": "https://altacdn.com/crypto/avalanche-2.svg",
+                        "networks": [
+                            {
+                                "name": "AVAX",
+                                "code": "AVAX",
+                                "icon": "https://altacdn.com/crypto/avax.svg"
+                            }
+                        ],
+                        "priority": 92
+                    },
+                    {
+                        "crypto_currency": "Matic-network",
+                        "icon": "https://altacdn.com/crypto/matic-network.svg",
+                        "networks": [
+                            {
+                                "name": "MATIC",
+                                "code": "MATIC",
+                                "icon": "https://altacdn.com/crypto/matic.svg"
+                            }
+                        ],
+                        "priority": 99
+                    },
+                    {
+                        "crypto_currency": "Chiliz",
+                        "icon": "https://altacdn.com/crypto/chiliz.svg",
+                        "networks": [
+                            {
+                                "name": "Chiliz",
+                                "code": "CHZ",
+                                "icon": "https://altacdn.com/crypto/chz.svg"
+                            }
+                        ],
+                        "priority": 126
+                    },
+                    {
+                        "crypto_currency": "Aave",
+                        "icon": "https://altacdn.com/crypto/aave.svg",
+                        "networks": [
+                            {
+                                "name": "Aave",
+                                "code": "AAVE",
+                                "icon": "https://altacdn.com/crypto/aave.svg"
+                            }
+                        ],
+                        "priority": 127
+                    },
+                    {
+                        "crypto_currency": "Avalanche-c-chain",
+                        "icon": "https://altacdn.com/crypto/avalanche-c-chain.svg",
+                        "networks": [
+                            {
+                                "name": "Avalanche (C-Chain)",
+                                "code": "AVAXC",
+                                "icon": "https://altacdn.com/crypto/avaxc.svg"
+                            }
+                        ],
+                        "priority": 164
+                    },
+                    {
+                        "crypto_currency": "1inch",
+                        "icon": "https://altacdn.com/crypto/1inch.svg",
+                        "networks": [
+                            {
+                                "name": "1INCH",
+                                "code": "1INCH",
+                                "icon": "https://altacdn.com/crypto/1inch.svg"
+                            },
+                            {
+                                "name": "1Inch Network (BSC)",
+                                "code": "1INCHBSC",
+                                "icon": "https://altacdn.com/crypto/1inchbsc.svg"
+                            }
+                        ],
+                        "priority": 168
+                    },
+                    {
+                        "crypto_currency": "Apecoin",
+                        "icon": "https://altacdn.com/crypto/apecoin.svg",
+                        "networks": [
+                            {
+                                "name": "ApeCoin",
+                                "code": "APE",
+                                "icon": "https://altacdn.com/crypto/ape.svg"
+                            }
+                        ],
+                        "priority": 174
+                    },
+                    {
+                        "crypto_currency": "Ethbsc",
+                        "icon": "https://altacdn.com/crypto/ethbsc.svg",
+                        "networks": [
+                            {
+                                "name": "Ethereum (Binance Smart Chain)",
+                                "code": "ETHBSC",
+                                "icon": "https://altacdn.com/crypto/ethbsc.svg"
+                            }
+                        ],
+                        "priority": 177
+                    },
+                    {
+                        "crypto_currency": "Usdcmatic",
+                        "icon": "https://altacdn.com/crypto/usdcmatic.svg",
+                        "networks": [
+                            {
+                                "name": "USD Coin (Polygon)",
+                                "code": "USDCMATIC",
+                                "icon": "https://altacdn.com/crypto/usdcmatic.svg"
+                            }
+                        ],
+                        "priority": 186
+                    }
+                ]
+            }
+        ]
+    }
+}

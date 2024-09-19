@@ -1,0 +1,20 @@
+{
+    "result": [
+        {
+            "code": "C",
+            "name": "Checkings account"
+        },
+        {
+            "code": "S",
+            "name": "Savings account"
+        },
+        {
+            "code": "O",
+            "name": "Joint checkings"
+        },
+        {
+            "code": "P",
+            "name": "Joint savings account"
+        }
+    ]
+}

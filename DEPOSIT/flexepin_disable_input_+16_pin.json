@@ -1,0 +1,80 @@
+{
+  "result": {
+    "deposit": [
+      {
+        "payment_id": 65937,
+        "name": "Cashlib",
+        "alias": "Cashlib",
+        "images": {
+          "default": "https://altacdn.com/spl/img/paysystems/pp_logo_cashlib-white.svg",
+          "active": "https://altacdn.com/spl/img/paysystems/pp_logo_cashlib-white.svg"
+        },
+        "disable_input": 1,
+        "dep_allow": "[]",
+        "categories": "[\"voucher\"]",
+        "frame": false,
+        "whitelist": 0,
+        "idx": 99,
+        "rules": {
+          "currency": "EUR",
+          "min": 5,
+          "max": 50,
+          "default": 10,
+          "range": [
+            5,
+            10,
+            15,
+            20,
+            30,
+            50
+          ],
+          "term": null,
+          "vendor": "cashlib"
+        },
+        "forms": []
+      },
+      {
+        "payment_id": 101437,
+        "name": "Flexepin DE",
+        "alias": "PSP-Flexepin-copy",
+        "images": {
+          "default": "https://altacdn.com/spl/img/paysystems/pp_logo-flexepin-white.svg",
+          "active": "https://altacdn.com/spl/img/paysystems/pp_logo-flexepin-white.svg"
+        },
+        "disable_input": 1,
+        "dep_allow": "[]",
+        "categories": "[\"voucher\"]",
+        "frame": false,
+        "whitelist": 0,
+        "idx": 101,
+        "rules": {
+          "currency": "EUR",
+          "min": 20,
+          "max": 10000,
+          "default": 50,
+          "range": [
+            20,
+            50,
+            100,
+            250,
+            500,
+            1000
+          ],
+          "term": null,
+          "vendor": "flexepin"
+        },
+        "forms": [
+          {
+            "form_id": 3,
+            "title": "Enter Your 16 Digit PIN",
+            "field": "pin",
+            "type": "string"
+          }
+        ]
+      }
+    ],
+    "withdraw": [],
+    "crypto_category": [],
+    "crypto": []
+  }
+}

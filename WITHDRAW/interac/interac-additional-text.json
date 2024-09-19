@@ -1,0 +1,34 @@
+{
+    "result": {
+        "deposit": [],
+        "withdraw": [
+            {
+                "payment_id": 38121,
+                "name": "interac online",
+                "alias": "interac-online-copy",
+                "images": {
+                    "default": "https://altacdn.com/sa/img/paysystems/pp_logo-interacetransfer-dark.svg",
+                    "active": "https://altacdn.com/sa/img/paysystems/pp_logo-interacetransfer.svg"
+                },
+                "disable_input": 0,
+                "dep_allow": "[\"paydo_cards\",\"paydo_neosurf_cad\",\"corefy_iframe\",\"corefy\",\"flexepin\",\"evoucher_cad\",\"piastrix_eur\"]",
+                "categories": "[\"bank_transfer\"]",
+                "frame": false,
+                "whitelist": 0,
+                "idx": 578,
+                "rules": {
+                    "currency": "CAD",
+                    "min": 30,
+                    "max": 1300,
+                    "default": 30,
+                    "range": "",
+                    "term": null,
+                    "vendor": "interac"
+                },
+                "forms": []
+            }
+        ],
+        "crypto_category": [],
+        "crypto": []
+    }
+}

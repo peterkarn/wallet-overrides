@@ -1,0 +1,14 @@
+{
+  "result": [
+    { "account": "DE555001dsa", "masked": "DE555********wewe" },
+    { "account": "DE55500105173624926841", "masked": "DE55********6841" },
+    { "account": "s2sdsasd2DE555001", "masked": "s2sdsa*******sdw2s" },
+    { "account": "DE55500105173624926841", "masked": "DE55********6841" },
+    { "account": "as1sasdasd@4sdg.dsw", "masked": "as1s********sdgs" },
+    { "account": "DE55500105173624926841", "masked": "D3e6********sdgssw" },
+    { "account": "3sdfsd@s3dg.sdgs", "masked": "3sdf********wew" },
+    { "account": "DE55500105173624926841", "masked": "DE55********6841" },
+    { "account": "7swqewgdsasad,dss", "masked": "7swqe********sdqwgs" },
+    { "account": "DE55500105173624926841", "masked": "DE55********6841" }
+  ]
+}

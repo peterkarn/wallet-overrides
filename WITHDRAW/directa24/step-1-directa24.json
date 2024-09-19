@@ -1,0 +1,71 @@
+{
+    "result": {
+      "deposit": [],
+      "withdraw": [
+        {
+            "payment_id": 75106,
+            "name": "Directa24 ",
+            "alias": "Directa24-Brazil-test",
+            "images": {
+                "default": "https://altacdn.com/hx/img/paysystems/pp_logo-banktransfer-light-1.svg",
+                "active": "https://altacdn.com/hx/img/paysystems/pp_logo-banktransfer-light-1.svg"
+            },
+            "disable_input": 0,
+            "dep_allow": "[\"corefy_iframe\",\"ebp_boleto\",\"settlepay_pix\",\"utorg_latamcash\",\"utorg_latambank\"]",
+            "categories": "[\"bank_transfer\"]",
+            "frame": false,
+            "whitelist": 0,
+            "idx": 221,
+            "rules": {
+                "currency": "BRL",
+                "min": 150,
+                "max": 4000,
+                "default": 150,
+                "range": "",
+                "term": null,
+                "vendor": "directa24"
+            },
+            "forms": [
+                {
+                    "form_id": 61,
+                    "title": "Account Number",
+                    "field": "bank_account",
+                    "type": "string"
+                },
+                {
+                    "form_id": 62,
+                    "title": "Branch Code",
+                    "field": "bank_branch",
+                    "type": "string"
+                },
+                {
+                    "form_id": 63,
+                    "title": "Type of account",
+                    "field": "account_type",
+                    "type": "string"
+                },
+                {
+                    "form_id": 64,
+                    "title": "Document Type",
+                    "field": "document_type",
+                    "type": "string"
+                },
+                {
+                    "form_id": 65,
+                    "title": "Document Number",
+                    "field": "document_id",
+                    "type": "string"
+                },
+                {
+                    "form_id": 66,
+                    "title": "Bank Code",
+                    "field": "bank_code",
+                    "type": "string"
+                }
+            ]
+        }
+      ],
+      "crypto_category": [],
+      "crypto": []
+    }
+}

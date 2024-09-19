@@ -1,0 +1,624 @@
+{
+    "result": [
+        {
+            "code": 1,
+            "name": "BANCO DO BRASIL S.A."
+        },
+        {
+            "code": 3,
+            "name": "BANCO DA AMAZONIA S.A."
+        },
+        {
+            "code": 4,
+            "name": "BANCO DO NORDESTE DO BRASIL S.A."
+        },
+        {
+            "code": 21,
+            "name": "BANESTES S.A. BANCO DO ESTADO DO ESPIRITO SANTO"
+        },
+        {
+            "code": 25,
+            "name": "Banco Alfa S.A."
+        },
+        {
+            "code": 33,
+            "name": "BANCO SANTANDER BRASIL S.A."
+        },
+        {
+            "code": 37,
+            "name": "BANCO DO ESTADO DO PARA S.A. - BANPARA"
+        },
+        {
+            "code": 41,
+            "name": "BANCO DO ESTADO DO RIO GRANDE DO SUL S.A. - BANRISUL"
+        },
+        {
+            "code": 47,
+            "name": "BANCO DO ESTADO DE SERGIPE S.A. - BANESE"
+        },
+        {
+            "code": 70,
+            "name": "BANCO DE BRASILIA S.A. - BRB"
+        },
+        {
+            "code": 77,
+            "name": "BANCO INTER"
+        },
+        {
+            "code": 79,
+            "name": "Banco Original do Agronegócio S.A."
+        },
+        {
+            "code": 85,
+            "name": "Cooperativa Central de Crédito (VIACREDI)"
+        },
+        {
+            "code": 93,
+            "name": "POLOCRED SCMEPP"
+        },
+        {
+            "code": 97,
+            "name": "Credisis - Central de Cooperativas de Crédito Ltda"
+        },
+        {
+            "code": 102,
+            "name": "XP INVESTIMENTOS S.A"
+        },
+        {
+            "code": 104,
+            "name": "CAIXA ECONOMICA FEDERAL - CEF"
+        },
+        {
+            "code": 107,
+            "name": "Banco BOCOM BBM S.A."
+        },
+        {
+            "code": 121,
+            "name": "BANCO AGIPLAN S.A."
+        },
+        {
+            "code": 133,
+            "name": "Cresol Confederação S.A"
+        },
+        {
+            "code": 136,
+            "name": "Confederação Nacional das Cooperativas Centrais Unicred"
+        },
+        {
+            "code": 197,
+            "name": "Stone Pagamentos S.A"
+        },
+        {
+            "code": 208,
+            "name": "Banco BTG Pactual S.A."
+        },
+        {
+            "code": 212,
+            "name": "BANCO ORIGINAL"
+        },
+        {
+            "code": 218,
+            "name": "BANCO BONSUCESSO S.A."
+        },
+        {
+            "code": 224,
+            "name": "Banco Fibra S.A."
+        },
+        {
+            "code": 237,
+            "name": "BANCO BRADESCO S.A."
+        },
+        {
+            "code": 260,
+            "name": "NU PAGAMENTOS"
+        },
+        {
+            "code": 274,
+            "name": "MONEY PLUS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORT"
+        },
+        {
+            "code": 280,
+            "name": "Will Financeira S.A."
+        },
+        {
+            "code": 290,
+            "name": "PagSeguro Internet S.A"
+        },
+        {
+            "code": 301,
+            "name": "Banco BPP Instituição de Pagamento S/A"
+        },
+        {
+            "code": 318,
+            "name": "BANCO BMG S.A"
+        },
+        {
+            "code": 320,
+            "name": "China Construction Bank Banco Múltiplo S.A."
+        },
+        {
+            "code": 323,
+            "name": "Mercado Pago"
+        },
+        {
+            "code": 330,
+            "name": "BANCO BARI DE INVESTIMENTOS E FINANCIAMENTOS S.A"
+        },
+        {
+            "code": 332,
+            "name": "BAcesso Soluções de Pagamento S.A"
+        },
+        {
+            "code": 335,
+            "name": "Banco Digio S.A"
+        },
+        {
+            "code": 336,
+            "name": "BANCO C6 S.A"
+        },
+        {
+            "code": 341,
+            "name": "ITAU UNIBANCO S.A."
+        },
+        {
+            "code": 364,
+            "name": "GERENCIANET S.A"
+        },
+        {
+            "code": 366,
+            "name": "Banco Société Générale Brasil S.A."
+        },
+        {
+            "code": 380,
+            "name": "PICPAY SERVICOS S.A"
+        },
+        {
+            "code": 389,
+            "name": "BANCO MERCANTIL DO BRASIL S.A."
+        },
+        {
+            "code": 396,
+            "name": "Banco Hub pagamentos SA"
+        },
+        {
+            "code": 399,
+            "name": "HSBC BANK BRASIL S.A. - BANCO MULTIPLO"
+        },
+        {
+            "code": 403,
+            "name": "CORA SCD S.A"
+        },
+        {
+            "code": 413,
+            "name": "Banco BV S.A."
+        },
+        {
+            "code": 422,
+            "name": "BANCO SAFRA S.A."
+        },
+        {
+            "code": 477,
+            "name": "CITIBANK N.A."
+        },
+        {
+            "code": 487,
+            "name": "Deutsche Bank S.A. – Banco Alemão"
+        },
+        {
+            "code": 488,
+            "name": "JPMorgan Chase Bank, National Association"
+        },
+        {
+            "code": 492,
+            "name": "ING Bank N.V."
+        },
+        {
+            "code": 505,
+            "name": "Banco Credit Suisse S.A."
+        },
+        {
+            "code": 536,
+            "name": "NEON PAGAMENTOS S.A. IP"
+        },
+        {
+            "code": 623,
+            "name": "Banco PAN S.A."
+        },
+        {
+            "code": 637,
+            "name": "BANCO SOFISA"
+        },
+        {
+            "code": 655,
+            "name": "Banco Votorantim S.A."
+        },
+        {
+            "code": 707,
+            "name": "BANCO DAYCOVAL S.A."
+        },
+        {
+            "code": 712,
+            "name": "BANCO OURINVEST S.A"
+        },
+        {
+            "code": 745,
+            "name": "BANCO CITIBANK"
+        },
+        {
+            "code": 746,
+            "name": "BANCO MODAL S.A."
+        },
+        {
+            "code": 747,
+            "name": "Banco Rabobank International Brasil S.A."
+        },
+        {
+            "code": 748,
+            "name": "BANCO COOPERATIVO SICREDI S.A."
+        },
+        {
+            "code": 752,
+            "name": "Banco BNP Paribas Brasil S.A."
+        },
+        {
+            "code": 756,
+            "name": "BANCO COOPERATIVO DO BRASIL S/A - BANCOOB"
+        },
+        {
+            "code": 10000,
+            "name": "PIX KEY PHONE"
+        },
+        {
+            "code": 10001,
+            "name": "PIX KEY EMAIL"
+        },
+        {
+            "code": 10002,
+            "name": "PIX KEY DOCUMENT"
+        },
+        {
+            "code": 10003,
+            "name": "PIX KEY RANDOM ID"
+        },
+        {
+            "code": 15000,
+            "name": "DIRECTA24"
+        },
+        {
+            "code": 20000,
+            "name": "7TRUST FINANCE & TAX ASSET"
+        },
+        {
+            "code": 20001,
+            "name": "A27 IP S/A"
+        },
+        {
+            "code": 20002,
+            "name": "ACG IP S.A."
+        },
+        {
+            "code": 20003,
+            "name": "ADYEN DO BRASIL IP LTDA."
+        },
+        {
+            "code": 20004,
+            "name": "AGILE CORPORATION"
+        },
+        {
+            "code": 20005,
+            "name": "ALIPAY"
+        },
+        {
+            "code": 20006,
+            "name": "AN SPACE PAY"
+        },
+        {
+            "code": 20007,
+            "name": "AQBANK"
+        },
+        {
+            "code": 20008,
+            "name": "ASTROPAY"
+        },
+        {
+            "code": 20009,
+            "name": "BCO VOTORANTIM S.A."
+        },
+        {
+            "code": 20010,
+            "name": "BEETELLER"
+        },
+        {
+            "code": 20011,
+            "name": "BNK DIGITAL SCD S.A."
+        },
+        {
+            "code": 20012,
+            "name": "BRASIL CARD IP LTDA"
+        },
+        {
+            "code": 20013,
+            "name": "BRINKS PAY IP LTDA."
+        },
+        {
+            "code": 20014,
+            "name": "C6 CTVM LTDA."
+        },
+        {
+            "code": 20015,
+            "name": "CC SICOOB CENTRAL BA"
+        },
+        {
+            "code": 20016,
+            "name": "CC UNICRED CENTRO-SUL LTDA - UNICRED CENTRO-SUL"
+        },
+        {
+            "code": 20017,
+            "name": "CC UNICRED DESBRAVADORA LTDA - UNICRED DESBRAVADORA"
+        },
+        {
+            "code": 20018,
+            "name": "CCC DO ESTADO DE SÃO PAULO"
+        },
+        {
+            "code": 20019,
+            "name": "CCC DO NORTE DO BRASIL"
+        },
+        {
+            "code": 20020,
+            "name": "CCC ESTADO MG - CECREMGE"
+        },
+        {
+            "code": 20021,
+            "name": "CCC ESTADO SP - CECRESP"
+        },
+        {
+            "code": 20022,
+            "name": "CCM DO ABC - COOPER 7"
+        },
+        {
+            "code": 20023,
+            "name": "CCR CREDICANA"
+        },
+        {
+            "code": 20024,
+            "name": "CECM MÉDICOS PLANALTO MÉDIO RS - CREDISIS/CREDIPLAN"
+        },
+        {
+            "code": 20025,
+            "name": "CENTRAL SICOOB UNI DE CC"
+        },
+        {
+            "code": 20026,
+            "name": "CF BANK"
+        },
+        {
+            "code": 20027,
+            "name": "CICLLOS PAY"
+        },
+        {
+            "code": 20028,
+            "name": "CODEPAY"
+        },
+        {
+            "code": 20029,
+            "name": "COOP CRESOL MATO GROSSO"
+        },
+        {
+            "code": 20030,
+            "name": "COOP UNIPRIME SUL LTDA."
+        },
+        {
+            "code": 20031,
+            "name": "COOPCENTRAL DE ECON. E CRÉDITO SICOOB UNIMAIS RIO LTDA."
+        },
+        {
+            "code": 20032,
+            "name": "COOPER CARD IP"
+        },
+        {
+            "code": 20033,
+            "name": "CREDISIS COOPESA"
+        },
+        {
+            "code": 20034,
+            "name": "CREDITÁ S.A. CFI"
+        },
+        {
+            "code": 20035,
+            "name": "CRONOS SOLUÇÕES PARA FINTECHS"
+        },
+        {
+            "code": 20036,
+            "name": "CSU"
+        },
+        {
+            "code": 20037,
+            "name": "DIZCONTA"
+        },
+        {
+            "code": 20038,
+            "name": "GALAX PAY IP S.A."
+        },
+        {
+            "code": 20039,
+            "name": "GOOGLE PAY BRASIL IP LTDA."
+        },
+        {
+            "code": 20040,
+            "name": "GRECALE SOLUCOES EM MEIOS DE P"
+        },
+        {
+            "code": 20041,
+            "name": "GREENCRED CC"
+        },
+        {
+            "code": 20042,
+            "name": "INDEPENDÊNCIA CC"
+        },
+        {
+            "code": 20043,
+            "name": "INOVANTI IP S.A."
+        },
+        {
+            "code": 20044,
+            "name": "IPC ADMINISTRACAO"
+        },
+        {
+            "code": 20045,
+            "name": "ISSUER IP LTDA."
+        },
+        {
+            "code": 20046,
+            "name": "KREDIT IP"
+        },
+        {
+            "code": 20047,
+            "name": "MACREBANK"
+        },
+        {
+            "code": 20048,
+            "name": "MAG IP LTDA."
+        },
+        {
+            "code": 20049,
+            "name": "MICROCASH SCMEPP LTDA."
+        },
+        {
+            "code": 20050,
+            "name": "MK DIGITAL"
+        },
+        {
+            "code": 20051,
+            "name": "MONETARIE SCD"
+        },
+        {
+            "code": 20052,
+            "name": "MOUNT PAY"
+        },
+        {
+            "code": 20053,
+            "name": "MUITO BANK"
+        },
+        {
+            "code": 20054,
+            "name": "MULTI VIS PAY"
+        },
+        {
+            "code": 20055,
+            "name": "NG.CASH"
+        },
+        {
+            "code": 20056,
+            "name": "NVIO BRASIL IP LTDA"
+        },
+        {
+            "code": 20057,
+            "name": "ONBANK IP SA"
+        },
+        {
+            "code": 20058,
+            "name": "PAGBEM"
+        },
+        {
+            "code": 20059,
+            "name": "PAY BROKERS IP"
+        },
+        {
+            "code": 20060,
+            "name": "PAY2ALL IP LTDA."
+        },
+        {
+            "code": 20061,
+            "name": "PAY4FUN IP S.A."
+        },
+        {
+            "code": 20062,
+            "name": "PINPAG"
+        },
+        {
+            "code": 20063,
+            "name": "PRIMEPAG"
+        },
+        {
+            "code": 20064,
+            "name": "QESH IP LTDA."
+        },
+        {
+            "code": 20065,
+            "name": "RAS SERVIÇOS DIGITAIS LTDA."
+        },
+        {
+            "code": 20066,
+            "name": "REAG DTVM S.A."
+        },
+        {
+            "code": 20067,
+            "name": "REPASSES FINANCEIROS E SOLUCOES TECNOLOGICAS IP S.A."
+        },
+        {
+            "code": 20068,
+            "name": "S3 TECNOLOGIA E SOLUCOES DE PA"
+        },
+        {
+            "code": 20069,
+            "name": "SERVNET IP LTDA."
+        },
+        {
+            "code": 20070,
+            "name": "SHOPEE"
+        },
+        {
+            "code": 20071,
+            "name": "SICOOB CENTRAL NE"
+        },
+        {
+            "code": 20072,
+            "name": "SKILOPAY INTERMEDIACOES E SOLU"
+        },
+        {
+            "code": 20073,
+            "name": "SLED"
+        },
+        {
+            "code": 20074,
+            "name": "SOLARPAY IP S.A."
+        },
+        {
+            "code": 20075,
+            "name": "SOLUPAG INSTITUIÇÃO DE PAGAMEN"
+        },
+        {
+            "code": 20076,
+            "name": "TARGET BANK"
+        },
+        {
+            "code": 20077,
+            "name": "UNLIMIT"
+        },
+        {
+            "code": 20078,
+            "name": "UZZIPAY IP S.A."
+        },
+        {
+            "code": 20079,
+            "name": "V3 IP S.A."
+        },
+        {
+            "code": 20080,
+            "name": "VALLOO PAGAMENTOS"
+        },
+        {
+            "code": 20081,
+            "name": "VIATECH"
+        },
+        {
+            "code": 20082,
+            "name": "VOLUS IP"
+        },
+        {
+            "code": 20083,
+            "name": "VOLUTI"
+        }
+    ]
+}

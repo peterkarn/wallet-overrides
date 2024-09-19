@@ -1,0 +1,20 @@
+{
+    "result": [
+        {
+            "code": "CPF",
+            "name": "CPF"
+        },
+        {
+            "code": "EMAIL",
+            "name": "EMAIL"
+        },
+        {
+            "code": "PHONE",
+            "name": "PHONE"
+        },
+        {
+            "code": "EVP",
+            "name": "EVP"
+        }
+    ]
+}

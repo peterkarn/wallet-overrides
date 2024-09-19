@@ -1,0 +1,45 @@
+{
+  "result": {
+    "deposit": [{
+      "payment_id": 39600,
+      "name": "Muchbetter",
+      "alias": "Muchbetter",
+      "images": {
+        "default": "https://altacdn.com/wl/img/paysystems/pp_logo-muchbetter-dark.svg",
+        "active": "https://altacdn.com/wl/img/paysystems/pp_logo-muchbetter-dark.svg"
+      },
+      "disable_input": 0,
+      "dep_allow": "[\"paycos\",\"skrill_Paysafecard\",\"utorg\",\"devcode_creditcard\",\"mifinity\",\"astropay_card\",\"quickbit_bch\",\"epro_png\",\"epro_kg\",\"jeton\",\"ezeewallet\",\"coinspaid_btc\",\"coinspaid_ltc\",\"coinspaid_eth\",\"corefy\"]",
+      "categories": "[\"e-wallet\"]",
+      "frame": false,
+      "whitelist": 0,
+      "idx": 214,
+      "rules": {
+        "currency": "CAD",
+        "min": 30,
+        "max": 10000,
+        "default": 50,
+        "range": [
+          30,
+          50,
+          100,
+          250,
+          500,
+          1000
+        ],
+        "term": null,
+        "vendor": "muchbetter"
+      },
+      "forms": [
+        {
+          "form_id": 78,
+          "title": "Phone number",
+          "field": "phone",
+          "type": "string"
+        }]
+    }],
+    "withdraw": [],
+    "crypto_category": [],
+    "crypto": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+    "result": {
+        "deposit": [],
+        "withdraw": [],
+        "crypto_category": [
+            {
+                "payment_id": 125472,
+                "name": "Changelly",
+                "alias": "changelly",
+                "images": {
+                    "default": "https://altacdn.com/bf/img/paysystems/pp_logo_changelly-white.svg",
+                    "active": "https://altacdn.com/bf/img/paysystems/pp_logo_changelly-white.svg"
+                },
+                "disable_input": 0,
+                "dep_allow": "[]",
+                "categories": "[\"buy_crypto\"]",
+                "frame": false,
+                "whitelist": 0,
+                "idx": 14,
+                "rules": {
+                    "currency": "EUR",
+                    "min": 30,
+                    "max": 9950,
+                    "default": 50,
+                    "range": [
+                        50,
+                        100,
+                        250,
+                        400,
+                        500,
+                        1000
+                    ],
+                    "term": null,
+                    "vendor": "changelly"
+                },
+                "forms": []
+            }
+        ],
+        "crypto": []
+    }
+}

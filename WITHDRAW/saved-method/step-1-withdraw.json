@@ -1,0 +1,41 @@
+{
+    "result": {
+        "deposit": [],
+        "withdraw": [
+            {
+                "payment_id": 48993,
+                "name": "Tether",
+                "alias": "Tether",
+                "images": {
+                    "default": "https://altacdn.com/sa/img/paysystems/pp_logo_tethertrc20-dark.svg",
+                    "active": "https://altacdn.com/sa/img/paysystems/pp_logo_tethertrc20-white.svg"
+                },
+                "disable_input": 0,
+                "dep_allow": "[\"utorg_skrill_de\",\"utorg_neteller_de\",\"utorg_paysafe_de\",\"utorg_rapid_de\",\"payler_poli\",\"lafinteca_binancepay\",\"paydo_cards\",\"paydo_neosurf_worldwide\",\"utorg_paysafewl\",\"utorg_blick\",\"utorg_neteller\",\"utorg_paysafe\",\"utorg_przelewy24\",\"utorg_rapid\",\"utorg_trustly\",\"utorg_skrill\",\"corefy_iframe\",\"ari10\",\"interkassa_trust_mcma\",\"corefy\",\"settlepay_binancepay\",\"noda\",\"bitpace\",\"utorg\",\"devcode_creditcard\",\"kluwp\",\"skrill_RapidTransfer\",\"neteller\",\"changelly\"]",
+                "categories": "[\"crypto\"]",
+                "frame": false,
+                "whitelist": 0,
+                "idx": -366,
+                "rules": {
+                    "currency": "EUR",
+                    "min": 50,
+                    "max": 1000,
+                    "default": 50,
+                    "range": "",
+                    "term": null,
+                    "vendor": "coinspaid_usdt"
+                },
+                "forms": [
+                    {
+                        "form_id": 68,
+                        "title": "eWallet number",
+                        "field": "account",
+                        "type": "string"
+                    }
+                ]
+            }
+        ],
+        "crypto_category": [],
+        "crypto": []
+    }
+}
