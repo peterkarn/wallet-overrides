@@ -75,8 +75,8 @@
         {
             "id": 37655,
             "title": "Deposit",
-            "type": "deposit",
-            "status": "error",
+            "type": "withdraw",
+            "status": "pending",
             "amount": "50.00",
             "paymethod": "Cards",
             "image": "",
